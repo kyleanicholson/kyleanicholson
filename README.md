@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @kyleanicholson. I am currently working as a software analyst in the healthcare sector. 
-- 👀 I’m interested in building a strong software development portfolio and ultimately working as a freelance developer.
+- 👋 Hi, I’m @kyleanicholson. I am a full stack web developer and . 
+- 👀 I’m interested in building my network and taking on new projects as a web developer.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on beginner projects that will introduce me to core programming concepts and help build long term skills.
 - 📫 How to reach me: kyle.nicholson67@gmail.com
 
 <!---
