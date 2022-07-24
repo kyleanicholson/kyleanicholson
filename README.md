@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kyleanicholson. I am a full stack web developer based in Bend, Oregon . 
+- 👋 Hi, I’m @kyleanicholson. I am a software developer based in Bend, Oregon . 
 - 👀 I’m interested in building my network and taking on new projects as a web developer.
-- 🌱 I’m currently learning python and JavaScript.
+- 🌱 I’m currently learning python.
 - 📫 How to reach me: kyle.nicholson67@gmail.com
 
 <!---
